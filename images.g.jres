@@ -1,0 +1,72 @@
+{
+    "image1": {
+        "data": "hwQMABAAAADw////////Dx8RERERERHxHyIiAgAAAPEfAgIAAAAA8R8iIgIgAgDxHwAAACIiAPEfAAAAICIC8R8AAAAiIgDxHwAAACACAPEfAAAAAAAA8R8RERERERHx8P///////w8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Heart_Ace"
+    },
+    "image2": {
+        "data": "hwQMABAAAADw////////Dx8RERERERHxHwIiAgAAAPEfAgICAAAA8R8iAgIgAgDxHwAAACIiAPEfAAAAICIC8R8AAAAiIgDxHwAAACACAPEfAAAAAAAA8R8RERERERHx8P///////w8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Heart_2"
+    },
+    "image3": {
+        "data": "hwQMABAAAADw////////Dx8RERERERHxHwICAgAAAPEfAgICAAAA8R8iIgIgAgDxHwAAACIiAPEfAAAAICIC8R8AAAAiIgDxHwAAACACAPEfAAAAAAAA8R8RERERERHx8P///////w8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Heart_3"
+    },
+    "image4": {
+        "data": "hwQMABAAAADw////////Dx8RERERERHxHyICAAAAAPEfAAIAAAAA8R8iIgIgAgDxHwAAACIiAPEfAAAAICIC8R8AAAAiIgDxHwAAACACAPEfAAAAAAAA8R8RERERERHx8P///////w8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Heart_4"
+    },
+    "image5": {
+        "data": "hwQMABAAAADw////////Dx8RERERERHxHyICAgAAAPEfAgICAAAA8R8CIgIgAgDxHwAAACIiAPEfAAAAICIC8R8AAAAiIgDxHwAAACACAPEfAAAAAAAA8R8RERERERHx8P///////w8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Heart_5"
+    },
+    "image6": {
+        "data": "hwQMABAAAADw////////Dx8RERERERHxHyIiAgAAAPEfAgICAAAA8R8CIgIgAgDxHwAAACIiAPEfAAAAICIC8R8AAAAiIgDxHwAAACACAPEfAAAAAAAA8R8RERERERHx8P///////w8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Heart_6"
+    },
+    "image7": {
+        "data": "hwQMABAAAADw////////Dx8RERERERHxHwIAAAAAAPEfAgAAAAAA8R8iIgIgAgDxHwAAACIiAPEfAAAAICIC8R8AAAAiIgDxHwAAACACAPEfAAAAAAAA8R8RERERERHx8P///////w8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Heart_7"
+    },
+    "image8": {
+        "data": "hwQMABAAAADw////////Dx8RERERERHxHyIiAgAAAPEfAgICAAAA8R8iIgIgAgDxHwAAACIiAPEfAAAAICIC8R8AAAAiIgDxHwAAACACAPEfAAAAAAAA8R8RERERERHx8P///////w8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Heart_8"
+    },
+    "image9": {
+        "data": "hwQMABAAAADw////////Dx8RERERERHxHyICAAAAAPEfAgIAAAAA8R8iIgIgAgDxHwAAACIiAPEfAAAAICIC8R8AAAAiIgDxHwAAACACAPEfAAAAAAAA8R8RERERERHx8P///////w8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Heart_9"
+    },
+    "image10": {
+        "data": "hwQMABAAAADw////////Dx8RERERERHxHyIiAgAAAPEfAAAAAAAA8R8iIgIgAgDxHwIAAiIiAPEfIiICICIC8R8AAAAiIgDxHwAAACACAPEfAAAAAAAA8R8RERERERHx8P///////w8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Heart_10"
+    },
+    "image11": {
+        "data": "hwQMABAAAADw////////Dx8RERERERHxHwAgAAAAAPEfAAACAAAA8R8iIgIgAgDxHwAAACIiAPEfAAAAICIC8R8AAAAiIgDxHwAAACACAPEfAAAAAAAA8R8RERERERHx8P///////w8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Heart_Jack"
+    },
+    "image12": {
+        "data": "hwQMABAAAADw////////Dx8RERERERHxHyAiAAAAAPEfAgACAAAA8R8gIgIgAgDxHwAAAiIiAPEfAAAAICIC8R8AAAAiIgDxHwAAACACAPEfAAAAAAAA8R8RERERERHx8P///////w8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Heart_Queen"
+    },
+    "image13": {
+        "data": "hwQMABAAAADw////////Dx8RERERERHxHyIiAgAAAPEfAAIAAAAA8R8iIAIgAgDxHwAAACIiAPEfAAAAICIC8R8AAAAiIgDxHwAAACACAPEfAAAAAAAA8R8RERERERHx8P///////w8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Heart_King"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
